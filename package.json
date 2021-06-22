@@ -1,0 +1,23 @@
+{
+  "name": "tfjs-memory-leak-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SukkaW/tfjs-memory-leak-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SukkaW/tfjs-memory-leak-example/issues"
+  },
+  "homepage": "https://github.com/SukkaW/tfjs-memory-leak-example#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-automl": "^1.2.0",
+    "@tensorflow/tfjs-node": "^3.7.0"
+  }
+}
